@@ -25,7 +25,7 @@ folders from the previous template are no longer used and can be deleted.
 
 Everything lives in `index.html`. Open it and look for these spots:
 
-- **Portrait** — replace `images/biopic.jpg`, or change the `src` on the `<img>` in the About section.
+- **Portrait** — replace `images/biopic.png`, or change the `src` on the `<img>` in the About section.
 - **CV** — add your PDF at `assets/CV_Alessia_Pasquini.pdf`. It's linked in three places
   (nav, hero button, contact row); update the path there if you name the file differently.
 - **Projects** — in the `#work` section. Each project is one `<a class="work-item">` block.
@@ -40,4 +40,3 @@ Placeholders still to fill are marked with `[square brackets]` and `<!-- TODO --
 ## Notes
 
 - The site is responsive, keyboard-accessible, and respects reduced-motion preferences.
-- Keep the `.git` folder and any `CNAME` file (custom domain) — don't delete those.
