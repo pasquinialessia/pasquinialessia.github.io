@@ -12,7 +12,7 @@ and **no framework** — edit the HTML, commit, and GitHub Pages redeploys autom
 ```
 index.html                      ← the whole site (edit this)
 images/
-  biopic.jpg                    ← portrait shown in the About section
+  biopic.png                    ← portrait shown in the About section
 assets/
   CV_Alessia_Pasquini.pdf       ← linked by the CV buttons (add this file)
 README.md
