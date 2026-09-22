@@ -10,11 +10,11 @@ and **no framework** — edit the HTML, commit, and GitHub Pages redeploys autom
 ## File structure
 
 ```
-index.html                      ← the whole site (edit this)
+index.html                      ← the whole site 
 images/
   biopic.png                    ← portrait shown in the About section
 assets/
-  CV_Alessia_Pasquini.pdf       ← linked by the CV buttons (add this file)
+  CV_Alessia_Pasquini.pdf       ← linked by the CV buttons 
 README.md
 ```
 
